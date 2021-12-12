@@ -1,0 +1,12 @@
+Para um comando especifico, a força:
+
+- css inline == 1000
+- id         == 100
+- clas       == 10
+- tag        == 1
+
+form p {} = 1+1 == 2
+p .teste {} = 10+1 == 11
+.teste {} = 10
+
+assim p.teste{} > .teste{} solo, e form p{} > p{}

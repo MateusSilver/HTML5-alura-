@@ -1,0 +1,17 @@
+body {
+    background-color: #fff023;
+}
+
+h1 {
+    color: rgb(1, 1, 158);
+    text-align: center;
+}
+
+p {
+    color: red;
+    text-align: justify;
+}
+
+em strong {
+    color: black
+}

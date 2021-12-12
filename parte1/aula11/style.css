@@ -1,0 +1,29 @@
+body {
+    background-color: #fff023;
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    color: rgb(1, 1, 158);
+    text-align: center;
+    border: 10px solid #000000;
+    padding:  20px;
+    margin: 40px;
+}
+
+p {
+    color: red;
+    text-align: justify;
+}
+
+#missao {
+    color: black
+}
+
+.itens {
+    font-style: italic;
+    
+}

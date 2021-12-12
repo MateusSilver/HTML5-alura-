@@ -1,0 +1,16 @@
+/* Aplica para todos os quatro lados */
+margin: 1em;
+
+/* vertical | horizontal */
+margin: 5% auto;
+
+/* topo | horizontal | inferior */
+margin: 1em auto 2em;
+
+/* topo | direita | inferior | esquerda */
+margin: 2px 1em 0 auto;
+
+/* Valores globais */
+margin: inherit;
+margin: initial;
+margin: unset;
